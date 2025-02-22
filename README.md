@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+_Explain what software engineering is and discuss its importance in the technology industry.
 
 The systematic approach to designing, developing, testing, deploying, and maintaining software systems using engineering principles.
 It focuses on creating efficient, reliable, scalable, and secure software that meets user needs and industry standards. Software engineering helps with the following:
@@ -16,7 +16,7 @@ It focuses on creating efficient, reliable, scalable, and secure software that m
 5.Enhances Customer Experience – Delivers smooth, user-friendly digital services.
 6.Reduces Costs & Increases Profits – Lowers maintenance expenses and improves ROI.
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+_Identify and describe at least three key milestones in the evolution of software engineering.
 
 1. The Birth of Software Engineering (1968)
 The term "software engineering" was introduced at the 1968 NATO Software Engineering Conference to address the software crisis—projects were failing due to poor planning and lack of structured development.
@@ -28,7 +28,7 @@ Programming languages like C and Pascal became popular, improving software relia
 The Agile Manifesto (2001) revolutionized software engineering by promoting flexibility, collaboration, and iterative development over rigid, document-heavy methods like Waterfall.
 Agile frameworks like Scrum and Kanban are widely used today, enabling faster software delivery.
 
-List and briefly explain the phases of the Software Development Life Cycle.
+_List and briefly explain the phases of the Software Development Life Cycle.
 
 1.Requirement Analysis – Gather and document user needs, business goals, and system requirements.
 2.Planning – Define project scope, estimate costs, set timelines, and allocate resources.
@@ -38,7 +38,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6.Deployment – Release the software for users, either in phases or all at once.
 7.Maintenance – Provide updates, bug fixes, and improvements over time.
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+_Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Feature	             Waterfall                                             Agile
 Process	            Step-by-step, one phase at a time	              Continuous cycles (sprints)
@@ -50,7 +50,7 @@ Delivery	          Final product at the end	                      Small updates 
 Waterfall: Best for projects with fixed requirements, like banking software or government systems.
 Agile: Best for projects needing flexibility, like mobile apps or startups.
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+_Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer     
 
@@ -73,7 +73,7 @@ Project Manager
 3.Ensures project stays on track and meets goals.
 4.Manages risks and problem-solving.
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+_Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
  Integrated Development Environments
  1.Provide tools for coding, debugging, and testing in one place.
@@ -87,7 +87,7 @@ Examples
  Examples
  Git (with GitHub, GitLab), SVN
  
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+_What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 1.Debugging & Fixing Bugs 
 
@@ -110,7 +110,7 @@ Solution: Use project management tools (Jira, Trello) and version control (Git) 
 Challenge: Software vulnerabilities can lead to data breaches.
 Solution: Follow secure coding practices, conduct regular security audits, and stay updated on threats.
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+_Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 1.Unit Testing – Tests individual components to catch bugs early. Example: Checking a login function.
 2.Integration Testing – Ensures modules work together correctly. Example: Verifying login connects to the database.
@@ -121,7 +121,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+_Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering is the process of crafting effective questions or instructions to optimize responses from AI models.
 It involves structuring prompts to achieve clarity, relevance, and precision.
@@ -131,7 +131,7 @@ It involves structuring prompts to achieve clarity, relevance, and precision.
 3.Optimizes AI Applications – Essential for AI-driven tasks like chatbots, content generation, and automation.
 4.Facilitates Better User Interaction – Helps users communicate effectively with AI, improving productivity.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+_Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 example
 Tell me about history
 
