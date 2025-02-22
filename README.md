@@ -7,7 +7,8 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry.
 
 The systematic approach to designing, developing, testing, deploying, and maintaining software systems using engineering principles.
-It focuses on creating efficient, reliable, scalable, and secure software that meets user needs and industry standards. Software engineering helps with the following
+It focuses on creating efficient, reliable, scalable, and secure software that meets user needs and industry standards. Software engineering helps with the following:
+
 1.Boosts Efficiency & Automation – Reduces manual work, increases productivity.
 2.Drives Innovation – Powers AI, cloud computing, and new tech solutions.
 3.Ensures Security & Reliability – Protects against cyber threats and system failures.
@@ -16,6 +17,7 @@ It focuses on creating efficient, reliable, scalable, and secure software that m
 6.Reduces Costs & Increases Profits – Lowers maintenance expenses and improves ROI.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 1. The Birth of Software Engineering (1968)
 The term "software engineering" was introduced at the 1968 NATO Software Engineering Conference to address the software crisis—projects were failing due to poor planning and lack of structured development.
 This milestone led to the adoption of engineering principles in software development.
@@ -27,6 +29,7 @@ The Agile Manifesto (2001) revolutionized software engineering by promoting flex
 Agile frameworks like Scrum and Kanban are widely used today, enabling faster software delivery.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 1.Requirement Analysis – Gather and document user needs, business goals, and system requirements.
 2.Planning – Define project scope, estimate costs, set timelines, and allocate resources.
 3.Design – Create software architecture, UI/UX design, and database structures.
@@ -36,6 +39,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 7.Maintenance – Provide updates, bug fixes, and improvements over time.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Feature	             Waterfall                                             Agile
 Process	            Step-by-step, one phase at a time	              Continuous cycles (sprints)
 Flexibility       	Rigid, hard to change                          	Flexible, easy to adapt
@@ -84,6 +88,7 @@ Examples
  Git (with GitHub, GitLab), SVN
  
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 1.Debugging & Fixing Bugs 
 
 Challenge: Finding and fixing errors can be time-consuming.
